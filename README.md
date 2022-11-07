@@ -11,8 +11,8 @@ I am a Develoepr, here some info about me
 #### 📫 How to reach me
 - Email: [`Click To Mail!`](mailto:taruntailor7@gmail.com) or copy **`taruntailor7@gmail.com`**
 
-
-<p style="display: inline-block;" align="center">
+<h2 ><u>My Skills</u></h2>
+<p style="display: inline-block;">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -44,29 +44,40 @@ I am a Develoepr, here some info about me
     <br>
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />
   </kbd>
-  <br>
-  <br>
   <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
 </p>
 
-![snake gif](https://github.com/taruntailor7/taruntailor7/blob/output/github-contribution-grid-snake.svg)
-
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<h2 ><u>My Github Stats</u></h2>
+<p >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=taruntailor7&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img src="https://github-readme-stats.vercel.app/api?username=taruntailor7&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taruntailor7&theme=holi-theme">
 </p>
+<hr>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/tarun-tailor-7bb4b5157/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:taruntailor7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+</p>
+
+-----
+
+Credits: [taruntailor7](https://github.com/taruntailor7)
+
+Last Edited on: 07/11/2022
   
