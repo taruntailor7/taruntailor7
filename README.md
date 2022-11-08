@@ -6,7 +6,7 @@ I am a Develoepr, here some info about me
 - 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB
 - 🤔 My interest lies in Web Development.
 - 💬 Ask me about anything from [taruntailor7@gmail.com](mailto:taruntailor7@gmail.com), I love to answer!
-- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com) // (Your Portfolio Link should be here.)
+- 🌐 You can see my personal website through [here](https://taruntailor.netlify.app/)
 
 #### 📫 How to reach me
 - Email: [`Click To Mail!`](mailto:taruntailor7@gmail.com) or copy **`taruntailor7@gmail.com`**
