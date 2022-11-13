@@ -9,6 +9,7 @@ I am a Develoepr, here some info about me
 - 🤔 My interest lies in Web Development.
 - 💬 Ask me about anything from [taruntailor7@gmail.com](mailto:taruntailor7@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://taruntailor.netlify.app/)
+-     My LinkedIn [here](https://github.com/taruntailor7)
 
 #### 📫 How to reach me
 - Email: [`Click To Mail!`](mailto:taruntailor7@gmail.com) or copy **`taruntailor7@gmail.com`**
