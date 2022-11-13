@@ -1,6 +1,8 @@
 <div>
 <h2> Hello There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Tarun Tailor, Welcome to my Github profile!</h2>
 </div>
+<br>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 I am a Develoepr, here some info about me
 - 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB
