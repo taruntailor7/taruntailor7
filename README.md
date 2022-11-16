@@ -66,6 +66,7 @@ I am a Develoepr, here some info about me
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taruntailor7&theme=holi-theme">
 </p>
+<a href="https://github.com/taruntailor7"><img alt="taruntailor7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=taruntailor7&custom_title=taruntailor7's%20Contribution%20Graph&theme=react-dark" /></a>
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
