@@ -1,5 +1,5 @@
 <div>
-<h2> Hello There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Tarun Tailor, Welcome to my Github profile!</h2>
+<h2> Hello There, I'm Tarun Tailor, Welcome to my Github profile!</h2>
 </div>
 <br>
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
