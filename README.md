@@ -1,8 +1,14 @@
 <div>
-<h2> Hello There, I'm Tarun Tailor, Welcome to my Github profile!</h2>
+<h2 align="center"> Hello There,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Tarun Tailor, Welcome to my Github profile!</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Full+Stack+Web+Developer;DS%20|%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+ <hr/>
+<h4 align="center">"I am a Btech graduate who is highly enthusiastic about web development,And always open to work on new technologies.❤️ to code" </h4>
+<br>
 </div>
 <br>
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="center" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 I am a Develoepr, here some info about me
 - 👀 I’m interested in Developement. I know JavaScript, HTML, CSS, React JS, Redux, Node JS, Express, Mongo DB
