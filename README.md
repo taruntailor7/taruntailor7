@@ -64,14 +64,10 @@ I am a Develoepr, here some info about me
 
 <h2 ><u>My Github Stats</u></h2>
 <p >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=taruntailor7&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=taruntailor7&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taruntailor7&theme=holi-theme">
 </p>
+<hr>
+<p  ><img src="https://github-profile-trophy.vercel.app/?username=taruntailor7&theme=vue" alt=""/> </p>
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
