@@ -71,7 +71,9 @@ I am a Develoepr, here some info about me
 <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taruntailor7&theme=holi-theme">
 </p>
 <hr>
-<p  ><img src="https://github-profile-trophy.vercel.app/?username=taruntailor7&theme=vue" alt=""/> </p>
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=taruntailor7" alt=""/>
+</p>
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
