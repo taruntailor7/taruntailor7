@@ -65,6 +65,9 @@ I am a Develoepr, here some info about me
 
 <h2 ><u>My Github Stats</u></h2>
 <p >
+<img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=taruntailor7&count_private=true&show_icons=trueline_height=21&theme=github_dark">
+</p>
+<p >
 <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taruntailor7&theme=holi-theme">
 </p>
 <hr>
